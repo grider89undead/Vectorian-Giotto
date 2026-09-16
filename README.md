@@ -213,3 +213,6 @@ Vectorian Giotto is offered as a full free version, including all features and u
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Ready to create amazing Flash animations? Download Vectorian Giotto now and unleash your creativity!
+
+---
+**Last updated:** 2026-09-16 01:11:09 UTC
